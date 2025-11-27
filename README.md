@@ -4,10 +4,24 @@
 
 - 🧪 QA Engineer focused on real-world testing (Manual + Integration)
 - 🔌 API Testing (Postman), end-to-end flows, and defect analysis
-- 🧑‍🤝‍🧑 Leading **Testing Club** community (sharing QA knowledge, sessions, and mentorship)
-- ⚙️ Creator of **Nebula Test Lab** — a hands-on testing playground + automation practice environment
+- ⚙️ Building training labs & automation-ready projects
 - 🌍 Based in Saudi Arabia
 
+
+## 🚀 Nebula Test Lab
+**Nebula Test Lab** is a hands-on testing playground I created to help testers practice on realistic UI scenarios and improve automation skills.
+
+🔗 Live Demo: https://nebula-test-lab-lv1.vercel.app/
+
+
+
+## 👥 Testing Club Community
+I lead **Testing Club**, a community for QA testers to learn, share knowledge, and grow together through discussions, sessions, and practical learning.
+
+💬 Join the WhatsApp group:  
+https://chat.whatsapp.com/BQ1xAdOAlDg3DwVgQwZ6hr?mode=hqrt1
+
+📺 YouTube: https://www.youtube.com/@TestingClub
 
 
 ## Skills
@@ -19,7 +33,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="35" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="35" />
 </p>
-
 
 
 ## Socials
