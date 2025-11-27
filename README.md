@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, My name is Husni 👋
 
-<!--
-**Husni-ux/Husni-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software QA Engineer | Manual + Integration Testing | Java/Selenium | API Testing
 
-Here are some ideas to get you started:
+- 🧪 QA Engineer focused on real-world testing (Manual + Integration)
+- 🔌 API Testing (Postman), end-to-end flows, and defect analysis
+- 🧑‍🤝‍🧑 Leading **Testing Club** community (sharing QA knowledge, sessions, and mentorship)
+- ⚙️ Creator of **Nebula Test Lab** — a hands-on testing playground + automation practice environment
+- 🌍 Based in Saudi Arabia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Skills
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="35" />
+</p>
+
+
+
+## Socials
+<p align="left">
+  <a href="https://www.linkedin.com/in/husni-tabaza-%D8%AD%D9%8F%D8%B3%D9%86%D9%8A-%D8%B7%D8%A8%D8%A7%D8%B2%D9%87-a13b11176/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="34"/>
+  </a>
+  <a href="https://www.youtube.com/@TestingClub" target="_blank">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" height="34"/>
+  </a>
+  <a href="https://www.husnitabazah.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" height="34"/>
+  </a>
+  <a href="https://github.com/Husni-ux" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" height="34"/>
+  </a>
+</p>
